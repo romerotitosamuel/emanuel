@@ -1,0 +1,22 @@
+
+#song a, .hidechord pre a {
+    
+    color: blue;
+    font-size: 80%;
+}
+
+pre {
+
+line-height: 100%;
+
+}
+
+#list {
+
+    height: 200px;
+    overflow: scroll;
+}
+
+
+
+/* Syntax==>      <u><small>X</small></u>     */
